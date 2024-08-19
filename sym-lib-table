@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "feather_wing")(type "KiCad")(uri "${KIPRJMOD}/feather_wing.kicad_sym")(options "")(descr ""))
+)

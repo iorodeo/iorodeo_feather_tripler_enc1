@@ -1,0 +1,9 @@
+*~
+*-backups
+*auto_saved_files*
+*-bak
+*-backups
+arena-backups
+rescue-backup
+arena.kicad_pcb-backups
+*.lck

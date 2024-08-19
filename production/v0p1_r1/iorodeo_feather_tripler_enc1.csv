@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW1";"MS-22D28-G020";1;"SW_Push_DPDT";;;
+2;"J1";"CUI_PJ-035C";1;"Barrel_Jack_Switch";;;
+3;"U1,U3,U2";"feather_wing";3;"feather_wing";;;
+4;"J2,J3,J4";"JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical";3;"Conn_01x04";;;
+5;"J5,J6";"JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical";2;"Conn_01x04";;;
