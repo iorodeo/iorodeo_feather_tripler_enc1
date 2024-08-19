@@ -3,4 +3,5 @@
   (lib (name "feather_wing")(type "KiCad")(uri "${KIPRJMOD}/feather_wing.pretty")(options "")(descr ""))
   (lib (name "CUI_PJ-035")(type "KiCad")(uri "${KIPRJMOD}/CUI_PJ-035.pretty")(options "")(descr ""))
   (lib (name "MS-22D28-G020")(type "KiCad")(uri "${KIPRJMOD}/MS-22D28-G020.pretty")(options "")(descr ""))
+  (lib (name "JST_PH_4Pin_Vertical")(type "KiCad")(uri "${KIPRJMOD}/JST_PH_4Pin_Vertical.pretty")(options "")(descr ""))
 )
