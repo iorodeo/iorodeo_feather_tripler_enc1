@@ -1011,6 +1011,10 @@
     (effects (font (size 2.032 2.032)) (justify left bottom))
     (uuid 1b9996d2-4c8b-4aa9-80f3-3ef59419c5be)
   )
+  (text "Add jumper pads to digital pins on J2 an J3" (at 142.748 149.479 0)
+    (effects (font (size 2.54 2.54) (thickness 1.27) bold) (justify left bottom))
+    (uuid 41a34c0c-fbc1-4509-ab49-171503b1ebbd)
+  )
   (text "Grove headers w/ analog inputs and ditigal in/out and serial"
     (at 143.51 106.045 0)
     (effects (font (size 2.032 2.032)) (justify left bottom))
