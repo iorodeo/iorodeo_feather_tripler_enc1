@@ -1,0 +1,16 @@
+"Source:","/home/wbd/work/products/iorodeo_feather_tripler_enc1/iorodeo_feather_tripler_enc1.kicad_sch"
+"Date:","Sun 08 Sep 2024 03:23:36 PM PDT"
+"Tool:","Eeschema 7.0.10-7.0.10~ubuntu22.04.1"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","18"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP"
+"1","1","J1","Barrel_Jack_Switch","Connector:Barrel_Jack_Switch","CUI_PJ-035:CUI_PJ-035C","~",""
+"2","3","J2, J3, J4","Conn_01x04","Connector_Generic:Conn_01x04","JST_PH_4Pin_Vertical:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical","~",""
+"3","2","J5, J6","Conn_01x04","Connector_Generic:Conn_01x04","Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical","~",""
+"4","4","JP1, JP3, JP5, JP7","SolderJumper_2_Bridged","Jumper:SolderJumper_2_Bridged","Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm","~",""
+"5","4","JP2, JP4, JP6, JP8","SolderJumper_2_Open","Jumper:SolderJumper_2_Open","Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm","~",""
+"6","1","SW1","SW_Push_DPDT","Switch:SW_Push_DPDT","MS-22D28-G020:MS-22D28-G020","~",""
+"7","3","U1, U2, U3","feather_wing","feather_wing:feather_wing","feather_wing:feather_wing","",""

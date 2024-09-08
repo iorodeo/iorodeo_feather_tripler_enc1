@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/wbd/work/products/iorodeo_feather_tripler_enc1/iorodeo_feather_tripler_enc1.kicad_sch</source>
+    <date>Sun 08 Sep 2024 03:23:36 PM PDT</date>
+    <tool>Eeschema 7.0.10-7.0.10~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>iorodeo_feather_tripler_enc1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Barrel_Jack_Switch</value>
+      <footprint>CUI_PJ-035:CUI_PJ-035C</footprint>
+      <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="DC Barrel Jack with an internal switch"/>
+      <property name="ki_keywords" value="DC power barrel jack connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43e7ffa1-148a-4361-b510-b13401b4ddc3</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04</value>
+      <footprint>JST_PH_4Pin_Vertical:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f65e7532-2a61-40d3-8fef-a61ba2a69152</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04</value>
+      <footprint>JST_PH_4Pin_Vertical:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>160aafab-3cb5-4be2-92f1-2cd47869a8a7</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x04</value>
+      <footprint>JST_PH_4Pin_Vertical:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9203f52-1e70-4918-84bf-c562cacb5426</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x04</value>
+      <footprint>Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddc07c31-b499-4ae6-8ac4-429e3053f64f</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x04</value>
+      <footprint>Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01560fc8-2664-4695-9dba-e0f8c44ae2e0</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 2-pole, closed/bridged"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>868faf3f-6f67-44f5-a380-2e69ff9d634e</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b7b613c-3a8e-4975-a562-520dda831ce7</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>SolderJumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 2-pole, closed/bridged"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b790ad0-aaef-4b91-ad94-ac47828f1939</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81b633d0-f6bf-40e5-b72b-622207fd559e</tstamps>
+    </comp>
+    <comp ref="JP5">
+      <value>SolderJumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 2-pole, closed/bridged"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ca15115-54cb-43a5-abd0-deb115e7d117</tstamps>
+    </comp>
+    <comp ref="JP6">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>033dbd1c-46be-4ce1-a53a-8dceaa654d9c</tstamps>
+    </comp>
+    <comp ref="JP7">
+      <value>SolderJumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 2-pole, closed/bridged"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>612a49e1-96e5-44f1-a2c2-c77b3f82d5ee</tstamps>
+    </comp>
+    <comp ref="JP8">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0367103c-791e-405a-ae8a-56fe30908923</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push_DPDT</value>
+      <footprint>MS-22D28-G020:MS-22D28-G020</footprint>
+      <libsource lib="Switch" part="SW_Push_DPDT" description="Momentary Switch, dual pole double throw"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <property name="ki_description" value="Momentary Switch, dual pole double throw"/>
+      <property name="ki_keywords" value="switch dual-pole double-throw spdt ON-ON"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1878d06-ce25-4684-a4f5-4e8f5c7c3fc5</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>feather_wing</value>
+      <footprint>feather_wing:feather_wing</footprint>
+      <libsource lib="feather_wing" part="feather_wing" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>536728f3-ce88-488b-b879-d9fde362650c</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>feather_wing</value>
+      <footprint>feather_wing:feather_wing</footprint>
+      <libsource lib="feather_wing" part="feather_wing" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ff8e5c3-2b28-4d11-9a5d-8dc890a739a6</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>feather_wing</value>
+      <footprint>feather_wing:feather_wing</footprint>
+      <libsource lib="feather_wing" part="feather_wing" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iorodeo_feather_tripler_enc1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d95488f6-94c9-4980-a63e-8bf79fe89a9b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Barrel_Jack_Switch">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Bridged">
+      <description>Solder Jumper, 2-pole, closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Bridged*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Bridged</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push_DPDT">
+      <description>Momentary Switch, dual pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push_DPDT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+        <pin num="4" name="A" type="passive"/>
+        <pin num="5" name="B" type="passive"/>
+        <pin num="6" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="feather_wing" part="feather_wing">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">feather_wing</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDA" type="bidirectional"/>
+        <pin num="2" name="SCL" type="bidirectional"/>
+        <pin num="3" name="D5" type="bidirectional"/>
+        <pin num="4" name="D6" type="bidirectional"/>
+        <pin num="5" name="D9" type="bidirectional"/>
+        <pin num="6" name="D10" type="bidirectional"/>
+        <pin num="7" name="D11" type="bidirectional"/>
+        <pin num="8" name="D12" type="bidirectional"/>
+        <pin num="9" name="D13" type="bidirectional"/>
+        <pin num="10" name="VUSB" type="power_in"/>
+        <pin num="11" name="EN" type="passive"/>
+        <pin num="12" name="BAT" type="passive"/>
+        <pin num="13" name="RST" type="passive"/>
+        <pin num="14" name="3V3" type="passive"/>
+        <pin num="15" name="AREF" type="passive"/>
+        <pin num="16" name="GND" type="power_in"/>
+        <pin num="17" name="A0" type="bidirectional"/>
+        <pin num="18" name="A1" type="bidirectional"/>
+        <pin num="19" name="A2" type="bidirectional"/>
+        <pin num="20" name="A3" type="bidirectional"/>
+        <pin num="21" name="A4" type="bidirectional"/>
+        <pin num="22" name="A5" type="bidirectional"/>
+        <pin num="23" name="SCK" type="bidirectional"/>
+        <pin num="24" name="MOSI" type="bidirectional"/>
+        <pin num="25" name="MISO" type="bidirectional"/>
+        <pin num="26" name="RX" type="bidirectional"/>
+        <pin num="27" name="TX" type="bidirectional"/>
+        <pin num="28" name="NOS" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/usr/share/kicad/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="feather_wing">
+      <uri>/home/wbd/work/products/iorodeo_feather_tripler_enc1/feather_wing.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/3V3">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="3V3" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="3V3" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="3V3" pintype="passive"/>
+    </net>
+    <net code="2" name="/5V">
+      <node ref="SW1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="SW1" pin="6" pinfunction="C" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="VUSB" pintype="power_in"/>
+      <node ref="U2" pin="10" pinfunction="VUSB" pintype="power_in"/>
+      <node ref="U3" pin="10" pinfunction="VUSB" pintype="power_in"/>
+    </net>
+    <net code="3" name="/A0">
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="U2" pin="17" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="U3" pin="17" pinfunction="A0" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/A1">
+      <node ref="JP7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="U2" pin="18" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="U3" pin="18" pinfunction="A1" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/A2">
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="U2" pin="19" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="U3" pin="19" pinfunction="A2" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/A3">
+      <node ref="JP8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="U2" pin="20" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="U3" pin="20" pinfunction="A3" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/A4">
+      <node ref="U1" pin="21" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="U2" pin="21" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="U3" pin="21" pinfunction="A4" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/A5">
+      <node ref="U1" pin="22" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="U2" pin="22" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="U3" pin="22" pinfunction="A5" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/AREF">
+      <node ref="U1" pin="15" pinfunction="AREF" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="AREF" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="AREF" pintype="passive"/>
+    </net>
+    <net code="10" name="/BAT">
+      <node ref="U1" pin="12" pinfunction="BAT" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="BAT" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="BAT" pintype="passive"/>
+    </net>
+    <net code="11" name="/D5">
+      <node ref="U1" pin="3" pinfunction="D5" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="D5" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pinfunction="D5" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/D6">
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="D6" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="D6" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="D6" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/D9">
+      <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="D9" pintype="bidirectional"/>
+      <node ref="U2" pin="5" pinfunction="D9" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="D9" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/D10">
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="D10" pintype="bidirectional"/>
+      <node ref="U2" pin="6" pinfunction="D10" pintype="bidirectional"/>
+      <node ref="U3" pin="6" pinfunction="D10" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/D11">
+      <node ref="JP6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="D11" pintype="bidirectional"/>
+      <node ref="U2" pin="7" pinfunction="D11" pintype="bidirectional"/>
+      <node ref="U3" pin="7" pinfunction="D11" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/D12">
+      <node ref="U1" pin="8" pinfunction="D12" pintype="bidirectional"/>
+      <node ref="U2" pin="8" pinfunction="D12" pintype="bidirectional"/>
+      <node ref="U3" pin="8" pinfunction="D12" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/D13">
+      <node ref="U1" pin="9" pinfunction="D13" pintype="bidirectional"/>
+      <node ref="U2" pin="9" pinfunction="D13" pintype="bidirectional"/>
+      <node ref="U3" pin="9" pinfunction="D13" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/EN">
+      <node ref="U1" pin="11" pinfunction="EN" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="EN" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="EN" pintype="passive"/>
+    </net>
+    <net code="19" name="/MISO">
+      <node ref="U1" pin="25" pinfunction="MISO" pintype="bidirectional"/>
+      <node ref="U2" pin="25" pinfunction="MISO" pintype="bidirectional"/>
+      <node ref="U3" pin="25" pinfunction="MISO" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/MOSI">
+      <node ref="U1" pin="24" pinfunction="MOSI" pintype="bidirectional"/>
+      <node ref="U2" pin="24" pinfunction="MOSI" pintype="bidirectional"/>
+      <node ref="U3" pin="24" pinfunction="MOSI" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/RST">
+      <node ref="U1" pin="13" pinfunction="RST" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="RST" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="RST" pintype="passive"/>
+    </net>
+    <net code="22" name="/RX">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="RX" pintype="bidirectional"/>
+      <node ref="U2" pin="26" pinfunction="RX" pintype="bidirectional"/>
+      <node ref="U3" pin="26" pinfunction="RX" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/SCK">
+      <node ref="U1" pin="23" pinfunction="SCK" pintype="bidirectional"/>
+      <node ref="U2" pin="23" pinfunction="SCK" pintype="bidirectional"/>
+      <node ref="U3" pin="23" pinfunction="SCK" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/SCL">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="SCL" pintype="bidirectional"/>
+      <node ref="U2" pin="2" pinfunction="SCL" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/SDA">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U3" pin="1" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/TX">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="TX" pintype="bidirectional"/>
+      <node ref="U2" pin="27" pinfunction="TX" pintype="bidirectional"/>
+      <node ref="U3" pin="27" pinfunction="TX" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/VUSB">
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW1" pin="5" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="28" name="GND">
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="16" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="16" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="29" name="Net-(J2-Pin_1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(J2-Pin_2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JP3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="JP4" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(J3-Pin_1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP5" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="JP6" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(J3-Pin_2)">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JP7" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="JP8" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="33" name="unconnected-(SW1-A-Pad1)">
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(SW1-A-Pad4)">
+      <node ref="SW1" pin="4" pinfunction="A" pintype="passive+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U1-NOS-Pad28)">
+      <node ref="U1" pin="28" pinfunction="NOS" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U2-NOS-Pad28)">
+      <node ref="U2" pin="28" pinfunction="NOS" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U3-NOS-Pad28)">
+      <node ref="U3" pin="28" pinfunction="NOS" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
