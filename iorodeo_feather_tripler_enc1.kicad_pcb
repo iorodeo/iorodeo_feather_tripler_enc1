@@ -2722,7 +2722,7 @@
   (gr_text "A0" (at 148.4 65.9) (layer "F.SilkS") (tstamp c60598c3-77e9-48e7-918a-3ab5b9748188)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "Feather Tripler ENC1 V0.1 R1\nwww.iorodeo.com" (at 103.759 50.546) (layer "F.SilkS") (tstamp c69ec369-309c-4180-97c8-ff4addc6fa3b)
+  (gr_text "Feather Tripler ENC1 V0.1 R2\nwww.iorodeo.com" (at 103.759 50.546) (layer "F.SilkS") (tstamp c69ec369-309c-4180-97c8-ff4addc6fa3b)
     (effects (font (size 1.2 1.2) (thickness 0.25) bold) (justify bottom))
   )
   (gr_text "3V3" (at 148.3 96.9) (layer "F.SilkS") (tstamp dce1c816-8792-4e84-9df3-04ef5310b7b0)
