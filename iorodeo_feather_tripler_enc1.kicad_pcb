@@ -3360,7 +3360,7 @@
   (gr_text "5V" (at 51.57125 99.62275 90) (layer "F.SilkS") (tstamp 12b7da37-fefd-4c25-98d6-45ef15febe39)
     (effects (font (size 1.5 1.5) (thickness 0.2)) (justify left bottom))
   )
-  (gr_text "D9/\nD10" (at 148.1 86.1) (layer "F.SilkS") (tstamp 1d14c956-882c-426c-acad-4f5d7229d465)
+  (gr_text "D9/\nD11" (at 148.1 86.1) (layer "F.SilkS") (tstamp 1d14c956-882c-426c-acad-4f5d7229d465)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "3V3" (at 148.2 63.9) (layer "F.SilkS") (tstamp 29fa1e33-439d-4e0d-8fa4-922aff33383e)
